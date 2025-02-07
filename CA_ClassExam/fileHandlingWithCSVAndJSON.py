@@ -1,6 +1,6 @@
 # Name: Ronan Smyth
 # Student Number: L00176857
-# Filename: assign2_L00176857
+# Filename: fileHandlingWithCSVAndJSON.py
 # Desc: A program from handling CSV, TEXT & JSON files.
 
 import json
