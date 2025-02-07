@@ -35,6 +35,7 @@ def main():
     mainMenu.addOption("Help")
     mainMenu.addOption("Quit")
     choice = mainMenu.getInput()
-    print("Input:", choice)
+    print("Input:", choice)
+
     
 main()
